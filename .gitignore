@@ -1,0 +1,14 @@
+target/
+idea/
+*.iml
+*.ipr
+*.iws
+
+VERSION
+Version.java
+
+*.log
+*.war
+*.jar
+*.tgz
+*.zip
