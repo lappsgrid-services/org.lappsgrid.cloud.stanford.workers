@@ -17,6 +17,7 @@ import org.lappsgrid.rabbitmq.topic.PostOffice
 //import org.lappsgrid.eager.rabbitmq.topic.PostOffice
 import org.lappsgrid.serialization.Serializer
 
+import java.rmi.registry.Registry
 import java.util.concurrent.BlockingQueue
 import java.util.concurrent.LinkedBlockingQueue
 import java.util.concurrent.ThreadPoolExecutor
